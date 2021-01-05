@@ -6,7 +6,11 @@ Currently studying Computer Science and Data Engineering in Morocco.
 Interested in every data-related stuff. *I Learn Everyday*
 
 Skills: **Statistics** | **Data Bases** | **Data Warehouse** | **Data Analysis with Python and R** | **Web Development**\
-I worked with **NumPy**, **Matplotlib**, **Pandas** and **Seaborn**.
+I worked with:
+* **NumPy**, 
+* **Matplotlib**, 
+* **Pandas**, 
+* **Seaborn**.
 
 - 🌱 I’m currently learning *BI (Business Intelligence) and Data Analysis* 
 
