@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is *François XEGBE*
 #### Computer Science and Data Engineering Student
-![Computer Science and Data Engineering Student](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1500&q=80)
+![Computer Science and Data Engineering Student](https://images.unsplash.com/photo-1598022124758-26d09adcb7b6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
 Currently studying Computer Science and Data Engineering in Morocco.
 Interested in every data-related stuff.\
