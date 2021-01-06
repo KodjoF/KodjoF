@@ -1,6 +1,8 @@
 ## Hello World
-👋, It's me **François XEGBE**
-Computer Science and Data Engineering Student <br>
+👋, It's me 
+# François XEGBE
+
+
 ![Computer Science and Data Engineering Student](https://images.unsplash.com/photo-1598022124758-26d09adcb7b6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
 Currently studying Computer Science and Data Engineering in Morocco.
