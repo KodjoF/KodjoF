@@ -6,7 +6,8 @@ Currently studying Computer Science and Data Engineering in Morocco.
 Interested in every data-related stuff.\
 *I Learn Everyday* :blush:
 
-Skills: **Statistics** | **Data Bases** | **Data Warehouse** | **Data Analysis with Python and R** | **Web Development**\
+## Skills
+-[x] **Statistics** | **Databases** | **Data Warehouse** | **Data Analysis with Python and R** | **Web Development**\
 I worked with:
 * **NumPy**, 
 * **Matplotlib**, 
